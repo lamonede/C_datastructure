@@ -1,2 +1,3 @@
-# C_list
-linked list C
+# C_Data_structure
+linked list
+polynomial
